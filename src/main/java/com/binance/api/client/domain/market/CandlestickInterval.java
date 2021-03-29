@@ -11,6 +11,7 @@ public enum CandlestickInterval {
   ONE_MINUTE("1m"),
   THREE_MINUTES("3m"),
   FIVE_MINUTES("5m"),
+  TEN_MINUTES("10m"),
   FIFTEEN_MINUTES("15m"),
   HALF_HOURLY("30m"),
   HOURLY("1h"),
